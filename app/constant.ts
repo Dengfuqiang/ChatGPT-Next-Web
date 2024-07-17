@@ -190,8 +190,7 @@ const openaiModels = [
 ];
 
 const googleModels = [
-  "gemini-pro-vision",
-];
+] as string[];
 
 const anthropicModels = [
 ] as string[];
@@ -213,15 +212,6 @@ export const DEFAULT_MODELS = [
       id: "openai",
       providerName: "OpenAI",
       providerType: "openai",
-    },
-  })),
-  ...openaiModels.map((name) => ({
-    name,
-    available: true,
-    provider: {
-      id: "azure",
-      providerName: "Azure",
-      providerType: "azure",
     },
   })),
   ...googleModels.map((name) => ({
