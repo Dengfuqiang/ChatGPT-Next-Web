@@ -194,16 +194,16 @@ const googleModels = [
 ];
 
 const anthropicModels = [
-] as number[];
+] as string[];
 
 const baiduModels = [
-] as number[];
+] as string[];
 
 const bytedanceModels = [
-] as number[];
+] as string[];
 
 const alibabaModes = [
-] as number[];
+] as string[];
 
 export const DEFAULT_MODELS = [
   ...openaiModels.map((name) => ({
