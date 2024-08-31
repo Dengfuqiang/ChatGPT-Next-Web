@@ -259,6 +259,7 @@ export const KnowledgeCutOffDate: Record<string, string> = {
 const openaiModels = [
   "gpt-3.5-turbo",
   "gpt-4o-2024-08-06",
+  "gpt-4o-mini-2024-07-18",
 ];
 
 const googleModels = [
@@ -277,24 +278,12 @@ const alibabaModes = [
 ] as string[];
 
 const tencentModels = [
-  "hunyuan-pro",
-  "hunyuan-standard",
-  "hunyuan-lite",
-  "hunyuan-role",
-  "hunyuan-functioncall",
-  "hunyuan-code",
-  "hunyuan-vision",
-];
+]as string[];
 
-const moonshotModes = ["moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k"];
+const moonshotModes = []as string[];
 
 const iflytekModels = [
-  "general",
-  "generalv3",
-  "pro-128k",
-  "generalv3.5",
-  "4.0Ultra",
-];
+] as string[];
 
 let seq = 1000; // 内置的模型序号生成器从1000开始
 export const DEFAULT_MODELS = [
