@@ -25,7 +25,7 @@ English / [简体中文](./README_CN.md)
 [NextChatAI](https://nextchat.dev/chat?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) 
 
 
-[saas-url]: https://nextchat.dev/chat?utm_source=readme
+[saas-url]: https://nextchat.club?utm_source=readme
 [saas-image]: https://img.shields.io/badge/NextChat-Saas-green?logo=microsoftedge
 [web-url]: https://app.nextchat.dev/
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
