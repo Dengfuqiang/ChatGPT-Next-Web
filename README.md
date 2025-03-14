@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href='https://nextchat.dev/chat'>
+<a href='https://nextchat.club'>
   <img src="https://github.com/user-attachments/assets/83bdcc07-ae5e-4954-a53a-ac151ba6ccf3" width="1000" alt="icon"/>
 </a>
 
@@ -22,7 +22,7 @@ English / [简体中文](./README_CN.md)
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[NextChatAI](https://nextchat.dev/chat?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) 
+[NextChatAI](https://nextchat.club?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/NextChatDev)
 
 
 [saas-url]: https://nextchat.club?utm_source=readme
